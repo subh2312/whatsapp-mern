@@ -7,7 +7,7 @@
 .sidebar__header {
   display: flex;
   justify-content: space-between;
-  padding: 20px;
+  padding: 40px;
   border-right: 1px solid lightgray;
 }
 
@@ -27,7 +27,7 @@
   display: flex;
   align-items: center;
   background-color: #f6f6f6;
-  height: 39px;
+  height: 40px;
   width: 10px;
 }
 .sidebar__searchContainer {
@@ -48,4 +48,9 @@
   border: none;
   outline-width: 0;
   margin-left: 10px;
+}
+
+.sidebar__chats {
+  flex: 1;
+  background-color: white;
 }
