@@ -1,0 +1,11 @@
+{
+  "emmet.excludeLanguages": [],
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "vue-html": "html",
+    "razor": "html",
+    "plaintext": "jade"
+  },
+  "emmet.showAbbreviationSuggestions": true,
+  "emmet.syntaxProfiles": {}
+}
